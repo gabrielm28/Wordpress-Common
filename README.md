@@ -1,2 +1,2 @@
 # Project
-Wordpress 1
+Wordpress 1 - Clone New York Times
