@@ -6,3 +6,16 @@ Author URI: gabrielm28.dev@gmail.com
 Description: Tema Portfolio 1
 Version: 1.0
 */
+
+
+header {
+	width : 100%;
+	height : 300px;
+}
+header button {
+	width : 100px;
+	height : 50px;
+}
+.titulo {
+	font-size : 3em;
+}
