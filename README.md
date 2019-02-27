@@ -1,2 +1,2 @@
 # Project
-Wordpress 1 - Clone New York Times
+Wordpress - Common Files To Create a site with Wordpress
