@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>Gabriel Martins Portfolio - The New York Times</title>
+	<title>Gabriel Martins Wordpress</title>
 	<link rel="stylesheet" type="text/css" href="<?php bloginfo('stylesheet_url') ?>" ?>
 	<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
@@ -13,4 +13,4 @@
 	<button>
 </header>
 
-<p class="titulo">Olá mundo</p>
+<p class="titulo">Hello World!</p>
